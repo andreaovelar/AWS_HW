@@ -1,15 +1,18 @@
-# AWS_HW
 
-# NLP_HW- HW 8
-# Natural Language Processing 
+# AWS_HW- HW 9
+# Clustering Crypto
 
-### Sentiment Analysis
-#### 1. Use the newsapi to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
-#### 2. Use descriptive statistics to answer the following questions:
+### Clustering Crypto
+#### 1.Data Preprocessing: Prepare data for dimension reduction with PCA and clustering using K-Means.
 
-* Which coin had the highest mean positive score? Bitcoin had the highest mean positive score with a value of 0.062245
-* Which coin had the highest negative score? Bitcoin had the highest mean negative score with a value of 0.040418
-* Which coin had the highest positive score? Bitcoin had the highest positive score with a value of 0.914100
+#### 2.Reducing Data Dimensions Using PCA: Reduce data dimension using the PCA algorithm from sklearn.
+
+#### 3.Clustering Cryptocurrencies Using K-Means: Predict clusters using the cryptocurrencies data using the KMeans algorithm from sklearn.
+
+#### 4.Visualizing Results: Create some plots and data tables to present your results. 
+
+#### 5.Challenge: Deploy your notebook to Amazon SageMaker. 
+
 
 ### Natural Language Processing
 
