@@ -1,15 +1,26 @@
 
-# AWS_HW- HW 9
-# Clustering Crypto
+# Amszon Web Services_HW- HW 9
+# Clustering Crypto -AWS
 
 ### Clustering Crypto
 #### 1.Data Preprocessing: Prepare data for dimension reduction with PCA and clustering using K-Means.
 
+![table](https://github.com/andreaovelar/AWS_HW/blob/master/pre.PNG "pre")
+
 #### 2.Reducing Data Dimensions Using PCA: Reduce data dimension using the PCA algorithm from sklearn.
 
+![table](https://github.com/andreaovelar/AWS_HW/blob/master/pca.PNG "pca")
+
+![table](https://github.com/andreaovelar/AWS_HW/blob/master/curve.PNG "curve")
+
 #### 3.Clustering Cryptocurrencies Using K-Means: Predict clusters using the cryptocurrencies data using the KMeans algorithm from sklearn.
+![table](https://github.com/andreaovelar/AWS_HW/blob/master/plot2.PNG "plot2")
 
 #### 4.Visualizing Results: Create some plots and data tables to present your results. 
+
+![table](https://github.com/andreaovelar/AWS_HW/blob/master/plot.PNG "plot")
+
+![table](https://github.com/andreaovelar/AWS_HW/blob/master/table.PNG "table")
 
 #### 5.Challenge: Deploy your notebook to Amazon SageMaker. 
 
